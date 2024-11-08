@@ -1,2 +1,2 @@
 # cuddly-sniffle
-Fractice
+Practice
