@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KB\\Desktop\\[\uCD5C\uC885] AIFull_project_2024_10_31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B84C47-F317-4708-B180-AD5CD8CA73A8}|AIFull_project_2024_10_31.vcxproj|C:\\Users\\KB\\Desktop\\[\uCD5C\uC885] AIFull_project_2024_10_31\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10B84C47-F317-4708-B180-AD5CD8CA73A8}|AIFull_project_2024_10_31.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 516,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\KB\\Desktop\\[\uCD5C\uC885] AIFull_project_2024_10_31\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\KB\\Desktop\\[\uCD5C\uC885] AIFull_project_2024_10_31\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAHcGAAAAAAAAAAAAAIEGAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T02:37:38.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
